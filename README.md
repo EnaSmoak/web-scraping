@@ -1,2 +1,2 @@
 # web-scrapping
-SCRAPING REAL ESTATES LISTINGS FROM MEQASA
+Scraping real estate listings from MEQASA
